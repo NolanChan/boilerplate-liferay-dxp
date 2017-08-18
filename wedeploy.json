@@ -1,5 +1,5 @@
 {
 	"id": "liferay",
 	"image": "wedeploy/liferay:dxp-sp4-20170802",
-	"volume": "/opt/liferay",
+	"volume": "/opt/liferay"
 }
